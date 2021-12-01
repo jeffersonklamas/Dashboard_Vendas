@@ -38,7 +38,7 @@ Colunas criadas:
 
 Como utilizei dados fictícios e pequenos, a criação do **DW** foi tranquila e de grande aprendizado no momento, compreender a lógica para estruturação de um banco de dados e seus detalhes, no momento criei algo básico para estudo, junto com a prática de **ETL**.
 
-DW Criado![dwcriado](C:\Users\jeffe\Documents\CURSOS_DSA\POWER_BI\Cap10_Bancos_Relacionais\EstudoDeCaso_4\imagens\miniprojeto.png)
+DW Criado![dwcriado](https://github.com/jeffersonklamas/Dashboard_Vendas/blob/main/imagens/miniprojeto.png)
 
 
 
@@ -51,7 +51,7 @@ Neste caso, a perguntas respondidas seriam:
 * Quais Fornecedores poderia ter uma melhor negociação para aquisição e venda de produtos nas lojas da rede.
 * Qual segmento investir para alavancar as vendas.
 
-Imagem Dashboard![Dashboard](C:\Users\jeffe\Documents\CURSOS_DSA\POWER_BI\Cap10_Bancos_Relacionais\EstudoDeCaso_4\imagens\dashboardMiniProjeto4.png)
+Imagem Dashboard![Dashboard](https://github.com/jeffersonklamas/Dashboard_Vendas/blob/main/imagens/dashboardMiniProjeto4.png)
 
 ## Ferramentas Usadas
 
